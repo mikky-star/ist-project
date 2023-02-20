@@ -1,0 +1,31 @@
+body{
+    width: 40%;
+    background-color: rgb(213, 240, 240);
+    margin: 70px auto;
+}
+.container{
+    background-color: white;
+    width: 60%;
+    border-radius: 20px;
+    margin-left: 20%;
+}
+img{
+    padding: 20px;
+    width: 90%;
+    border-radius: 40px;
+    position: relative;
+}
+h1{
+    width: 90%;
+    margin: auto;
+    text-align: center;
+    padding-bottom: 10px;
+}
+h3{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    padding: 20px 0 40px 0;
+    color: rgb(90, 88, 88);
+    font-weight: lighter;
+}
